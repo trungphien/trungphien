@@ -3,6 +3,10 @@
 I'm Trung Phien Nguyen, a passionate AI learner and researcher. My research interests focus on medical image
  analysis and 3D computer vision. Most of my work uses hybrid approaches to develop AI models that are more
  accurate and resource-efficient.
+
+ ## How to reach me 📝
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) | LinkedIn](https://www.linkedin.com/in/tphiennguyen/)|[📩 Email](trungphien456@gmail.com)|[🎓 Google Scholar](https://scholar.google.com.vn/citations?user=BNQNM4wAAAAJ&hl=vi)
+
 ### Languages
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)
