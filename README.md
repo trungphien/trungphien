@@ -31,11 +31,6 @@ My research interests focus on **medical image analysis** and **3D computer visi
 
 ---
 
-### 📚 Publications
-- 🔬 [*Improving Skin Lesion Classification based on Fusion Multi-Learning Models*](https://ieeexplore.ieee.org/document/10858900)
-
----
-
 ### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungphien&layout=compact&count_private=true&theme=gruvbox" />
